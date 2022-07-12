@@ -1,2 +1,2 @@
-# test.github.io
-test
+# This is a test site
+We are testing
